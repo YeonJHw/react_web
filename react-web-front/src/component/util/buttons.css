@@ -1,0 +1,31 @@
+/* #016A70
+#FFFFDD
+#D2DE32
+#A2C579
+rgb(1, 106, 112)
+rgb(255, 255, 221)
+rgb(210, 222, 50)
+rgb(162, 197, 121) */
+
+.btn {
+  width: 100%;
+  padding: 0.7rem;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: ns-eb;
+  border: none;
+  outline: none;
+  color: white;
+}
+.st1 {
+  background-color: #016a70;
+}
+.st2 {
+  background-color: #a2c579;
+}
+.st3 {
+  color: #016a70;
+  background-color: white;
+  border: 1px solid #016a70;
+  box-sizing: border-box;
+}

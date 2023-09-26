@@ -1,0 +1,36 @@
+/* #016A70
+#FFFFDD
+#D2DE32
+#A2C579
+rgb(1, 106, 112)
+rgb(255, 255, 221)
+rgb(210, 222, 50)
+rgb(162, 197, 121) */
+
+.pw-input-wrap > div {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px 0;
+}
+.pw-input-wrap > div > label {
+  width: 20%;
+  color: #016a70;
+  font-size: 18px;
+  font-family: ns-b;
+}
+.pw-input-wrap > div > input {
+  width: 50%;
+  margin: 0 35px;
+}
+.pw-input-wrap > div > button {
+  width: 20%;
+}
+.change-btn-box {
+  margin-top: 30px;
+}
+.new-pw-input-wrap {
+  border-top: 2px solid #016a70;
+  border-bottom: 2px solid #016a70;
+  padding: 30px 0;
+}
